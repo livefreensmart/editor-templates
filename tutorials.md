@@ -28,7 +28,7 @@ A full description of the topics of this video tutorial, plus the contents of th
 #### Curriculum
 Place here a list of related tutorials you have already shared on Utopian that make up a Course Curriculum, if applicable.
 
-- [Example Tutorial A](https://utopian.io/example-link)
-- [Example Tutorial B](https://utopian.io/example-link)
-- [Example Tutorial C](https://utopian.io/example-link)
-- [Example Tutorial D](https://utopian.io/example-link)
+- [Example Tutorial A](https://steemit.com/utopian-io/@test-account/test-permlink)
+- [Example Tutorial B](https://steemit.com/utopian-io/@test-account/test-permlink)
+- [Example Tutorial C](https://steemit.com/utopian-io/@test-account/test-permlink)
+- [Example Tutorial D](https://steemit.com/utopian-io/@test-account/test-permlink)
