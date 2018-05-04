@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 #### Series
 Unless this is the first blog post of a series, you must provide here links to the other posts of the series.
 
-- [Example Blog Post A](https://utopian.io/example-link)
-- [Example Blog Post B](https://utopian.io/example-link)
-- [Example Blog Post C](https://utopian.io/example-link)
-- [Example Blog Post D](https://utopian.io/example-link)
+- [Example Blog Post A](https://steemit.com/utopian-io/@test-account/test-permlink)
+- [Example Blog Post B](https://steemit.com/utopian-io/@test-account/test-permlink)
+- [Example Blog Post C](https://steemit.com/utopian-io/@test-account/test-permlink)
+- [Example Blog Post D](https://steemit.com/utopian-io/@test-account/test-permlink)
