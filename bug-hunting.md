@@ -1,5 +1,8 @@
-#### Repository
+#### Project Information
+* Repository
 e.g. https://github.com/utopian-io/utopian.io
+* Title
+* Publisher (if applicable)
 
 #### Expected behavior
 Write here the details of the behaviour you were expecting when encountered this bug.
