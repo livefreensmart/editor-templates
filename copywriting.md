@@ -1,6 +1,9 @@
 #### Repository
 e.g. https://github.com/utopian-io/utopian.io
 
+#### Linked Task Request
+Link to the task request e.g. https://steemit.com/utopian-io/@test-account/test-permlink
+
 #### Details
 Write here the details of your work.
     
