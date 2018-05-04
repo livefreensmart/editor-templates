@@ -10,6 +10,9 @@ Write here the details of your work. Paste the images of the final result.
 #### Benefits / Improvements
 Whether your work is an enhancement of an existing graphic or a completely new one, write here the benefits your work will bring to the project.
 
+#### Proof of authorship
+Provide screenshots or videos of the creation process. Show the steps of making of the graphics in such a detail, it could be replicated. 
+
 #### Tools
 Write here the details of the tools you have used to create the graphic design. Provide as much information as possible to reproduce or edit your work.
 
