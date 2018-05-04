@@ -1,5 +1,8 @@
-#### Repository
+#### Project Information
+* Repository:
 e.g. https://github.com/utopian-io/utopian.io
+* Title:
+* Publisher (if applicable):
 
 #### Expected behavior
 Write here the details of the behaviour you were expecting when encountered this bug.
@@ -10,7 +13,7 @@ Write here the details of the behaviour that you are experiencing as a bug.
 #### How to reproduce
 Write here every possible detail to reproduce the bug.
 
-* Browser: 
+* Browser/App version: 
 * Operating system:
 
 #### Recording Of The Bug
