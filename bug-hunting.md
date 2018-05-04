@@ -13,7 +13,7 @@ Write here the details of the behaviour that you are experiencing as a bug.
 #### How to reproduce
 Write here every possible detail to reproduce the bug.
 
-* Browser (if applicable): 
+* Browser/App version: 
 * Operating system:
 
 #### Recording Of The Bug
