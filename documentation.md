@@ -12,3 +12,6 @@ If you have updated an existing documentation, highlights here what have been ch
 
 #### Links
 Paste here the public links to the updated official documentation.
+
+#### Proof of Work
+Link to commits or PR for the official documentation and proof as owner of the Github Account(you can put your steemit username in the bio of your Github account).
