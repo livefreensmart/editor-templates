@@ -1,8 +1,8 @@
 #### Repository
 e.g. https://github.com/utopian-io/utopian.io
 
-#### Details
-Write here the details of the analysis and briefly explain what data and information you are going to present.
+#### Introduction
+Include a brief explanation and overview of the information and analysis presented in this post.
 
 #### Outline
 
@@ -11,22 +11,13 @@ Write here the details of the analysis and briefly explain what data and informa
 - Example Point 3
 
 #### Scope of Analysis
-Write here all the information regarding the data extracted, such as: Date of the analysis, timeframe of the analysed data, components of the analysis.
+Describe and detail the information on the data extracted such as date of the analysis, timeframe of the analysed data, components of the analysis etc.
 
 #### Tools
-Write here the details of the tools you have used. You must provide information regarding scripts, softwares, algorithms you have used to generate the data, open source or commercial.
+Include a reference to the tools used (open source or commercial) to generate the data such as scripts, software, algorithms etc.
 
 #### Results
-Write here the results of your analysis. Provide charts and table to easily read the data.
+Detail the results of your analysis, including charts and tables for data redability.
 
-##### Example Point 1
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-##### Example Point 2
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-##### Example Point 3
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-#### Proof of Work Done
-Paste here the full url to your github account. E.g. https://github.com/username
+#### Proof of Authorship
+Include verifiable proof of authorship of the work done.
