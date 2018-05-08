@@ -2,33 +2,18 @@
 e.g. https://github.com/utopian-io/utopian.io
 
 #### Introduction
-Write here briefly what your blog post is about.
+Write a short overview of the post goal and content.
 
-#### Topic A
-##### Subheading Topic A
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+#### Post Body
+Write the post in readable and presentable form by utilizing markdown to style the text.
 
-#### Topic B
-##### Subheading Topic B
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+#### Resources
+Include links and references to resources used in the post.
 
-#### Topic C
-##### Subheading Topic C
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-#### Topic D
-##### Subheading Topic D
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
-[...more topics]
-
-#### Series
-Unless this is the first blog post of a series, you must provide here links to the other posts of the series.
+#### Series Backlinks
+If the post if not the first post in a series, link to the previous posts of the series.
 
 - [Example Blog Post A](https://steemit.com/utopian-io/@test-account/test-permlink)
 - [Example Blog Post B](https://steemit.com/utopian-io/@test-account/test-permlink)
 - [Example Blog Post C](https://steemit.com/utopian-io/@test-account/test-permlink)
 - [Example Blog Post D](https://steemit.com/utopian-io/@test-account/test-permlink)
-
-#### Proof of Work Done
-Paste here the full url to your github account. E.g. https://github.com/username
