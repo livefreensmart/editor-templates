@@ -5,13 +5,14 @@ e.g. https://github.com/utopian-io/utopian.io
 Write here the details of the new/updated documentation. Highlights all the important changes and additions to the official documentation that you made and are already merged.
 
 #### Components
-Write here the details of the components/parts/sections of the software your documentation is about.
+Describe the components/parts/sections of the software your documentation is about.
 
-#### Diff
+#### Difference
 If you have updated an existing documentation, highlights here what have been changed, the impact and the reasons of the changes.
 
 #### Links
 Paste here the public links to the updated official documentation.
 
-#### GitHub Account
-Paste here the full url to your GitHub account. E.g. https://github.com/username
+#### GitHub Proof of Authorship
+- GitHub account: e.g. https://github.com/username
+- Pull Request: insert a link to the pull request containing your work (if applicable)
