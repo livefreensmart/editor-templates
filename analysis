@@ -6,12 +6,28 @@ Include a brief explanation and overview of the information and analysis present
 
 #### Outline
 
-- Example Point 1
-- Example Point 2
-- Example Point 3
+- Scope of Analysis
+- Findings 1
+- Findings 2
+- Findings 3
+- Summary / Conclusion
+- Tools and Scripts
+- Relevant Links / Resources
 
 #### Scope of Analysis
 Describe and detail the information on the data extracted such as date of the analysis, timeframe of the analysed data, components of the analysis etc.
+
+##### Findings 1
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+
+##### Findings 2
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+##### Findings 3
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+
+#### Summary / Conclusion
+Write here the conclusion of your analysis.
 
 #### Tools
 Include a reference to the tools used (open source or commercial) to generate the data such as scripts, software, algorithms etc.
