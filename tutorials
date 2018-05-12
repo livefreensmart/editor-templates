@@ -2,31 +2,31 @@
 e.g. https://github.com/utopian-io/utopian.io
 
 #### What Will I Learn?
-Write here briefly the details of what the user is going to learn in a bullet list.
+In brief, write details of what the user is going to learn in a bullet list.
 
 - You will learn Example A
 - You will learn Example B
 - You will learn Example C
 
 #### Requirements
-Write here a bullet list of the requirements for the user in order to follow this tutorial.
+State the requirements the user needs in order to follow this tutorial.
 
 - Example Requirement A
 - Example Requirement B
 - Example Requirement C
 
 #### Difficulty
-Either choose between the following options:
+Choose one of the following options:
 
 - Basic
 - Intermediate
 - Advanced
 
 #### Tutorial Contents
-A full description of the topics of this video tutorial, plus the contents of the tutorial itself.
+A full description of the topics covered in this tutorial, plus the contents of the tutorial itself.
 
 #### Curriculum
-Place here a list of related tutorials you have already shared on Utopian that make up a Course Curriculum, if applicable.
+Include a list of related tutorials you have already shared on Utopian that make up a Course Curriculum, if applicable.
 
 - [Example Tutorial A](https://steemit.com/utopian-io/@test-account/test-permlink)
 - [Example Tutorial B](https://steemit.com/utopian-io/@test-account/test-permlink)
@@ -34,4 +34,4 @@ Place here a list of related tutorials you have already shared on Utopian that m
 - [Example Tutorial D](https://steemit.com/utopian-io/@test-account/test-permlink)
 
 #### Proof of Work Done
-Paste here the full url to your github account. E.g. https://github.com/username
+Insert here the full url of the code used in the tutorial, under your GitHub or a relevant gist, e.g. https://github.com/username/projname
