@@ -5,16 +5,20 @@ e.g. https://github.com/utopian-io/utopian.io
 Include a brief explanation and overview of the information and analysis presented in this post.
 
 #### Outline
-- Scope of Analysis
+- Scope
+- Results
 - Findings 1
 - Findings 2
 - Findings 3
-- Summary / Conclusion
+- Conclusion
 - Tools and Scripts
-- Relevant Links / Resources
+- Relevant Links and Resources
 
-#### Scope of Analysis
-Describe and detail the information on the data extracted such as date of the analysis, timeframe of the analysed data, components of the analysis etc.
+#### Scope
+Describe and detail the information on the data extracted such as date of the analysis, timeframe of the analysed data, components of the analysis, etc.
+
+#### Results
+Detail the results of your analysis, including charts, tables and infographics for data readability.
 
 ##### Findings 1
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
@@ -25,14 +29,14 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 ##### Findings 3
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
-#### Summary / Conclusion
-Write here the conclusion of your analysis.
+#### Conclusion
+Write the conclusion of your analysis.
 
-#### Tools
-Include a reference to the tools used (open source or commercial) to generate the data such as scripts, software, algorithms etc.
+#### Tools and Scripts
+Include a reference to the tools used (open source or commercial) to generate the data such as scripts, software, algorithms, etc.
 
-#### Results
-Detail the results of your analysis, including charts and tables for data redability.
+#### Relevant Links and Resources
+Add links to resources relevant to your analysis.
 
 #### Proof of Authorship
 Include verifiable proof of authorship of the work done.
