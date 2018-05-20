@@ -11,7 +11,7 @@ Write the post in readable and presentable form by utilizing markdown to style t
 Include links and references to resources used in the post.
 
 #### Series Backlinks
-If the post if not the first post in a series, link to the previous posts of the series.
+If the post is not the first post in a series, link to the previous posts of the series.
 
 - [Example Blog Post A](https://steemit.com/utopian-io/@test-account/test-permlink)
 - [Example Blog Post B](https://steemit.com/utopian-io/@test-account/test-permlink)
