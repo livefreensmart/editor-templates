@@ -18,7 +18,3 @@ How many words did you translate, not counting anything that is excluded in our 
 ### Proof of Authorship
 Please provide all the necessary screenshots, links & other information related to Crowdin and/or your translation work to verify the authorship of those translations.
 
-#### Crowdin Profile link
-#### Screenshots of Word Count
-#### Other
-
