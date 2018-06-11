@@ -1,10 +1,10 @@
 #### Repository
 e.g. https://github.com/utopian-io/utopian.io
 
-### Project Details
+#### Project Details
 Write about the details of the project you're translating and what value it brings to the open source community.
 
-### Details of Work Done
+#### Details of Work Done
 
 - Translation Details
 Write about the details of what you've translated, as well as the purpose of the text(s). 
