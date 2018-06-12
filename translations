@@ -2,18 +2,18 @@
 e.g. https://github.com/utopian-io/utopian.io
 
 #### Project Details
-Write about the details of the project you're translating and what value it brings to the open source community.
+Describe the target project of your work, including your motivation to translate this particular projects, and what value it brings to the open source community.
 
-#### Details of Work Done
+#### Contribution Specifications
 
-- Translation Details
-Write about the details of what you've translated, as well as the purpose of the text(s). 
+- Translation Overwiew
+Explain the purpose of the text translated, their applications and uses and include an overview of the work you’ve done.
 
 - Languages
-Write about the source language and the language you've translated to as well as your expertise in them.
+List the source and target languages in this contribution. Be sure to also provide some insight on your expertise and translation experience in these languages.
 
 - Word Count
-How many words did you translate, not counting anything that is excluded in our guidelines.
+Present a number report of the volume of the work done (number of words translated). Be sure to exclude duplicate strings and static text (like links and code) from your count.
 
 ### Proof of Authorship
 Please provide all the necessary screenshots, links & other information related to Crowdin and/or your translation work to verify the authorship of those translations.
